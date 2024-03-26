@@ -1,4 +1,4 @@
-[!Banner](https://media.licdn.com/dms/image/D5616AQH48KaOcSHbtw/profile-displaybackgroundimage-shrink_350_1400/0/1693997721394?e=1717027200&v=beta&t=sAOHRodUXgBRDWFHYGjMtGMlbo7Vxl6GDE6tssa2bgc)
+![Banner](https://media.licdn.com/dms/image/D5616AQH48KaOcSHbtw/profile-displaybackgroundimage-shrink_350_1400/0/1693997721394?e=1717027200&v=beta&t=sAOHRodUXgBRDWFHYGjMtGMlbo7Vxl6GDE6tssa2bgc)
 
 # 👋 Hello there sweet web surfer! My name is Soumyabrata Banik
 
