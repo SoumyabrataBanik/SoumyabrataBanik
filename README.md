@@ -1,6 +1,5 @@
+# 👋 Hello there sweet web surfer!
 ![Banner](https://media.licdn.com/dms/image/D5616AQH48KaOcSHbtw/profile-displaybackgroundimage-shrink_350_1400/0/1693997721394?e=1717027200&v=beta&t=sAOHRodUXgBRDWFHYGjMtGMlbo7Vxl6GDE6tssa2bgc)
-
-# 👋 Hello there sweet web surfer! My name is Soumyabrata Banik
 
 I'm deeply passionate about Web Development and love to create web applications that provide a seamless user experience. With a knack for both aesthetics and functionality, I strive to bring creative ideas to life on the web.
 
