@@ -18,7 +18,7 @@ I'm deeply passionate about Web Development and love to create web applications 
 
 ## My Latest Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=YourFoodies&theme=github_dark)](https://github.com/SoumyabrataBanik/YourFoodies) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=Wild-Oasis&theme=github_dark)](https://github.com/SoumyabrataBanik/Wild-Oasis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=YourFoodies&theme=github_dark)](https://github.com/SoumyabrataBanik/YourFoodies)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=Wild-Oasis&theme=github_dark)](https://github.com/SoumyabrataBanik/Wild-Oasis)
 
 
 ### ✍️ Random Dev Quote
