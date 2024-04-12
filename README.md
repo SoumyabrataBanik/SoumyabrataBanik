@@ -22,7 +22,7 @@ I'm deeply passionate about Web Development and love to create web applications 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=Wild-Oasis&theme=github_dark)](https://github.com/SoumyabrataBanik/Wild-Oasis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=Backend-Nodejs-TypeScript=&theme=github_dark)](https://github.com/SoumyabrataBanik/Backend-Nodejs-TypeScript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SoumyabrataBanik&repo=Backend-Nodejs-TypeScript&theme=github_dark)](https://github.com/SoumyabrataBanik/Backend-Nodejs-TypeScript)
 
 
 ### ✍️ Random Dev Quote
